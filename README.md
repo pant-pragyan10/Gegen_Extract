@@ -1,8 +1,13 @@
 # GegenExtract
 
+
 GegenExtract is a research-oriented extraction system for converting semi-structured documents (resumes, hiring bench PDFs) into validated JSON artifacts. The project combines schema-aware prompting, repair-aware extraction, hierarchical evaluation, and an autonomous prompt-optimization engine to improve per-field extraction quality with strong observability.
 
 ---
+
+<img width="727" height="780" alt="image" src="https://github.com/user-attachments/assets/19419eda-4329-43f8-9138-85d98bf52131" />
+
+
 
 ## Quick Links
 
