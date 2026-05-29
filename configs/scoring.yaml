@@ -1,0 +1,15 @@
+metrics:
+  default_weights:
+    precision: 1.0
+    recall: 1.0
+    f1: 1.0
+semantic:
+  threshold: 0.8
+  backend: lightweight
+alignment:
+  strategy: greedy
+  unmatched_penalty: 0.0
+tolerance:
+  number_tolerance: 1e-6
+aggregation:
+  policy: weighted_leaf

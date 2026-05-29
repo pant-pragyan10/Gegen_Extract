@@ -1,0 +1,40 @@
+experiment:
+  id: null
+  name: sample_opt
+  seed_prompt:
+    system: "System"
+    instructions: "Extract fields as JSON"
+  dataset:
+    split: 0.8
+  eval_schedule:
+    validate_every_n_gens: 1
+persistence:
+  sqlite_path: daten/experiments.db
+budget:
+  max_generations: 10
+  max_evaluations: 100
+  max_runtime_seconds: 600
+checkpoint:
+  interval_seconds: 30
+  interval_generations: 1
+experiment:
+  id: exp_001
+  name: prompt_opt_random
+  seed: 42
+  dataset: ./data/experiments/exp_001
+  resume: true
+optimizer:
+  strategy: random_search
+  max_iterations: 100
+  parallel_workers: 4
+prompts:
+  base_template: ./prompts/base_prompt.tpl
+  versions_dir: ./prompts/versions
+scoring:
+  primary_metric: f1
+  validation_split: 0.2
+ingestion:
+  cache_dir: ./data/experiments/exp_001/cache
+  ocr_threshold_chars_per_page: 50
+  ocr_trigger_page_ratio: 0.5
+  seed: 42

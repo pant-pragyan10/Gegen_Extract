@@ -1,0 +1,48 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-25T21:25:41.147629",
+      "candidates": [
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-25T21:25:41.152551",
+      "candidates": [
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "fd0d9f89-6e9b-41b4-be9f-8204397a5768",
+          "score": 0.5,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

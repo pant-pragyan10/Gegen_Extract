@@ -1,0 +1,10 @@
+{
+  "constraints": null,
+  "examples": [],
+  "id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+  "instructions": "Extract resume fields as JSON",
+  "metadata": {},
+  "repair": null,
+  "system": "System",
+  "version": 1
+}

@@ -1,0 +1,89 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-25T21:38:12.532760",
+      "candidates": [
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-25T21:38:12.537721",
+      "candidates": [
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 2,
+      "time": "2026-05-25T21:38:12.543094",
+      "candidates": [
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 3,
+      "time": "2026-05-25T21:38:12.547229",
+      "candidates": [
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 4,
+      "time": "2026-05-25T21:38:12.551961",
+      "candidates": [
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

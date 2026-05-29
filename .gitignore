@@ -1,0 +1,28 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.db
+playground.db
+.DS_Store
+node_modules/
+.streamlit/secrets.toml
+# API keys and local secrets
+*.key
+*.pem
+*.crt
+# Local experiment caches and temporary files
+experiments/*/cache/
+experiments/*/tmp/
+# Temporary screenshots
+docs/screenshots/tmp/
+logs/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Python bytecode
+*.py[cod]

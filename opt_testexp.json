@@ -1,0 +1,48 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-25T20:57:12.766748",
+      "candidates": [
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-25T20:57:12.771424",
+      "candidates": [
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "6ff7ac11-40b5-4f3d-9a98-65b3a1f7b5c5",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "generation_summary": [
+    {
+      "generation": 0,
+      "count": 12,
+      "mean": 0.22839506172839505,
+      "stdev": 0.3968420533443316,
+      "max": 1.0
+    },
+    {
+      "generation": 1,
+      "count": 12,
+      "mean": 0.22530864197530864,
+      "stdev": 0.392096802402027,
+      "max": 1.0
+    },
+    {
+      "generation": 2,
+      "count": 12,
+      "mean": 0.24074074074074073,
+      "stdev": 0.417796821210314,
+      "max": 1.0
+    },
+    {
+      "generation": 3,
+      "count": 12,
+      "mean": 0.25,
+      "stdev": 0.4330127018922193,
+      "max": 1.0
+    },
+    {
+      "generation": 4,
+      "count": 12,
+      "mean": 0.24074074074074073,
+      "stdev": 0.417796821210314,
+      "max": 1.0
+    }
+  ],
+  "mutation_stats": {
+    "reduce_hallucination": {
+      "count": 60,
+      "scores": [
+        1.0,
+        0.8518518518518519,
+        0.8888888888888888,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.8148148148148148,
+        0.8888888888888888,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.8888888888888888,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.8888888888888888,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_score": 0.23703703703703705,
+      "median_score": 0.0
+    }
+  },
+  "accepted": [
+    {
+      "generation": 0,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 1.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 0,
+      "artifact_id": "e20dca7a-4d88-4339-9d04-cd418f742eb6",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 0,
+      "artifact_id": "c41dcfed-e72e-44f1-9168-86276b173afd",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 0,
+      "artifact_id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 1.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "e20dca7a-4d88-4339-9d04-cd418f742eb6",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "c41dcfed-e72e-44f1-9168-86276b173afd",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 2,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 1.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 2,
+      "artifact_id": "e20dca7a-4d88-4339-9d04-cd418f742eb6",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 2,
+      "artifact_id": "c41dcfed-e72e-44f1-9168-86276b173afd",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 2,
+      "artifact_id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 3,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 1.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 3,
+      "artifact_id": "e20dca7a-4d88-4339-9d04-cd418f742eb6",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 3,
+      "artifact_id": "c41dcfed-e72e-44f1-9168-86276b173afd",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 3,
+      "artifact_id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 4,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 1.0,
+      "mutation_name": "strengthen_constraint"
+    },
+    {
+      "generation": 4,
+      "artifact_id": "e20dca7a-4d88-4339-9d04-cd418f742eb6",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 4,
+      "artifact_id": "c41dcfed-e72e-44f1-9168-86276b173afd",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    },
+    {
+      "generation": 4,
+      "artifact_id": "fccea2b4-477f-48ff-a3ee-47cac0d0f32b",
+      "score": 0.0,
+      "mutation_name": "rewrite_instruction"
+    }
+  ],
+  "rejected": [
+    {
+      "generation": 0,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8518518518518519,
+      "mutation_name": "strengthen_constraint"
+    },
+    {
+      "generation": 0,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8888888888888888,
+      "mutation_name": "reduce_hallucination"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8148148148148148,
+      "mutation_name": "strengthen_constraint"
+    },
+    {
+      "generation": 1,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8888888888888888,
+      "mutation_name": "reduce_hallucination"
+    },
+    {
+      "generation": 2,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8888888888888888,
+      "mutation_name": "reduce_hallucination"
+    },
+    {
+      "generation": 4,
+      "artifact_id": "1284b0b8-cc49-41d2-ab94-f2294041fb0c",
+      "score": 0.8888888888888888,
+      "mutation_name": "rewrite_instruction"
+    }
+  ],
+  "stagnation": {
+    "stagnant_generations": 4,
+    "improving_generations": 1,
+    "best_progress": [
+      {
+        "generation": 0,
+        "new_best": 1.0
+      }
+    ]
+  },
+  "best_generation": {
+    "generation": 0,
+    "count": 12,
+    "mean": 0.22839506172839505,
+    "stdev": 0.3968420533443316,
+    "max": 1.0
+  }
+}

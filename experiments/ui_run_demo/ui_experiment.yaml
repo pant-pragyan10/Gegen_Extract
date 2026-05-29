@@ -1,0 +1,15 @@
+experiment:
+  budget:
+    max_generations: 5
+    max_runtime_seconds: 600
+  checkpoint:
+    seed: 42
+  dataset:
+    root: ''
+  id: ui_run_demo
+  name: UI run ui_run_demo
+  persistence:
+    sqlite_path: experiments.db
+  seed_prompt:
+    instructions: UI-run seed prompt
+    system: ''

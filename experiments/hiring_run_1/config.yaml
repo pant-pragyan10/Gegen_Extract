@@ -1,0 +1,30 @@
+experiment:
+  id: hiring_res_001
+  name: hiring_resume_opt
+  seed_prompt:
+    system: "System"
+    instructions: "Extract resume fields as JSON"
+  seed: 123
+  dataset:
+    root: ./data/hiring
+  persistence:
+    sqlite_path: experiments/hiring_run_1/experiments.db
+  budget:
+    max_generations: 5
+    max_evaluations: 100
+    max_runtime_seconds: 600
+  checkpoint:
+    interval_seconds: 30
+    interval_generations: 1
+  optimizer:
+    strategy: random_search
+    max_iterations: 100
+prompts:
+  base_template: ./prompts/base_prompt.tpl
+scoring:
+  primary_metric: f1
+  validation_split: 0.2
+ingestion:
+  cache_dir: ./data/hiring/cache
+  ocr_threshold_chars_per_page: 50
+  ocr_trigger_page_ratio: 0.5

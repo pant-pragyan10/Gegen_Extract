@@ -1,0 +1,24 @@
+population:
+  size: 8
+  beam_width: 3
+  exploration_rate: 0.3
+
+mutation:
+  probabilities:
+    rewrite_instruction: 0.25
+    strengthen_constraint: 0.2
+    reduce_hallucination: 0.2
+    formatting_mutation: 0.15
+    schema_guidance: 0.15
+    repair_instruction: 0.05
+  seed: 42
+  aggressiveness: 1.0  # multiplier for mutation intensity (0-1)
+
+selection:
+  acceptance_delta: 0.01
+  stagnation_gens: 5
+  diversity_penalty: 0.1
+
+budget:
+  max_generations: 50
+  max_evaluations: 1000

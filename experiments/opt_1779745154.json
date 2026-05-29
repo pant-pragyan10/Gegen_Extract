@@ -1,0 +1,89 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-25T21:39:14.237635",
+      "candidates": [
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 0.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-25T21:39:14.243836",
+      "candidates": [
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 2,
+      "time": "2026-05-25T21:39:14.248260",
+      "candidates": [
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 3,
+      "time": "2026-05-25T21:39:14.252915",
+      "candidates": [
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 4,
+      "time": "2026-05-25T21:39:14.258748",
+      "candidates": [
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "a154bc0a-7a34-4681-9dcd-5df3eec18270",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tables": [],
+  "field_summary": {},
+  "insights": {
+    "strongest_fields": [],
+    "weakest_fields": [],
+    "most_unstable_fields": [],
+    "most_improved_fields": []
+  },
+  "llm_examples_counts": {
+    "seed": 0,
+    "best": 0,
+    "top_repaired": 0
+  }
+}

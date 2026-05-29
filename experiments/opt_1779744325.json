@@ -1,0 +1,48 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-25T21:25:25.503277",
+      "candidates": [
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-25T21:25:25.506646",
+      "candidates": [
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "b2341ea4-8f4a-4637-b57a-bcaa8cd027d2",
+          "score": 0.5,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

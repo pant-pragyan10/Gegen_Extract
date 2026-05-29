@@ -1,0 +1,27 @@
+app:
+  name: GegenExtract
+  version: 0.1.0
+logging:
+  level: INFO
+  file: ./logs/gegenextract.log
+data:
+  dataset_path: ./data/sample_dataset
+  cache_enabled: true
+  cache_ttl_seconds: 86400
+ingestion:
+  ocr_threshold_chars_per_page: 50
+  ocr_trigger_page_ratio: 0.5
+  cache_dir: ./data/cache
+  split:
+    train: 0.8
+    val: 0.1
+    test: 0.1
+  seed: 42
+llm:
+  provider: groq
+  model: llama-3.3-70b-versatile
+  temperature: 0.0
+persistence:
+  database_url: sqlite:///./data/gegenextract.db
+experiments:
+  default_experiment: baseline

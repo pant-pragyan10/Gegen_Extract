@@ -1,0 +1,114 @@
+{
+  "generations": [
+    {
+      "generation": 0,
+      "time": "2026-05-29T05:54:43.856158",
+      "candidates": [
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 1,
+      "time": "2026-05-29T05:54:43.862477",
+      "candidates": [
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 2,
+      "time": "2026-05-29T05:54:43.870625",
+      "candidates": [
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 3,
+      "time": "2026-05-29T05:54:43.875860",
+      "candidates": [
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    },
+    {
+      "generation": 4,
+      "time": "2026-05-29T05:54:43.882211",
+      "candidates": [
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "rewrite_instruction"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "strengthen_constraint"
+        },
+        {
+          "artifact_id": "959ec4bf-0c2f-4cae-87e9-f520a9f5ec20",
+          "score": 1.0,
+          "mutation_name": "reduce_hallucination"
+        }
+      ],
+      "metadata": {}
+    }
+  ]
+}

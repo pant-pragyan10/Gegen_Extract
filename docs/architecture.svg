@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <style>
+    .box { fill: #1f77b4; stroke: #0b3b61; stroke-width: 2px; }
+    .text { fill: #fff; font-family: Arial, sans-serif; font-size: 14px; }
+    .arrow { stroke: #333; stroke-width: 2px; fill: none; marker-end: url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#333" />
+    </marker>
+  </defs>
+  <rect x="10" y="40" width="140" height="80" rx="8" class="box"/>
+  <text x="80" y="85" text-anchor="middle" class="text">PDF</text>
+
+  <rect x="180" y="40" width="160" height="80" rx="8" class="box"/>
+  <text x="260" y="70" text-anchor="middle" class="text">Extraction</text>
+  <text x="260" y="90" text-anchor="middle" class="text">(Groq)</text>
+
+  <rect x="360" y="40" width="120" height="80" rx="8" class="box"/>
+  <text x="420" y="85" text-anchor="middle" class="text">Repair</text>
+
+  <rect x="500" y="40" width="140" height="80" rx="8" class="box"/>
+  <text x="570" y="70" text-anchor="middle" class="text">Evaluation</text>
+  <text x="570" y="90" text-anchor="middle" class="text">(field/subtree)</text>
+
+  <rect x="660" y="40" width="160" height="80" rx="8" class="box"/>
+  <text x="740" y="70" text-anchor="middle" class="text">Optimization</text>
+  <text x="740" y="90" text-anchor="middle" class="text">(mutations)</text>
+
+  <rect x="840" y="40" width="140" height="80" rx="8" class="box"/>
+  <text x="910" y="85" text-anchor="middle" class="text">Observability</text>
+
+  <path d="M150 80 L180 80" class="arrow" />
+  <path d="M340 80 L360 80" class="arrow" />
+  <path d="M480 80 L500 80" class="arrow" />
+  <path d="M620 80 L660 80" class="arrow" />
+  <path d="M820 80 L840 80" class="arrow" />
+</svg>

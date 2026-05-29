@@ -1,0 +1,10 @@
+{
+  "constraints": null,
+  "examples": [],
+  "id": "c9d8a1c1-49ce-4598-abce-a0b9bd289cea",
+  "instructions": "Extract name field as JSON",
+  "metadata": {},
+  "repair": null,
+  "system": "System",
+  "version": 1
+}

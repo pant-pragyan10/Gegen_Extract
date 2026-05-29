@@ -1,0 +1,62 @@
+[
+  {
+    "generation": 0,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "rewrite_instruction"
+  },
+  {
+    "generation": 0,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "strengthen_constraint"
+  },
+  {
+    "generation": 1,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "rewrite_instruction"
+  },
+  {
+    "generation": 1,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "strengthen_constraint"
+  },
+  {
+    "generation": 2,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "rewrite_instruction"
+  },
+  {
+    "generation": 2,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "strengthen_constraint"
+  },
+  {
+    "generation": 3,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "rewrite_instruction"
+  },
+  {
+    "generation": 3,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "strengthen_constraint"
+  },
+  {
+    "generation": 4,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "rewrite_instruction"
+  },
+  {
+    "generation": 4,
+    "artifact_id": "81326a68-701e-422c-becc-ae79243a2167",
+    "score": 0.0,
+    "mutation_name": "strengthen_constraint"
+  }
+]
